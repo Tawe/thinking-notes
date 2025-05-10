@@ -1,3 +1,5 @@
+# 📅 Week 19 – May 5–9, 2025
+
 We completed our annual compensation review, advanced our internal AI initiative (particularly around Cursor integration), and finalized role expectations across the development team. The comp review sparked important questions around performance culture, motivation, and whether low turnover is always a healthy signal.
 
 **What I Did:**  
