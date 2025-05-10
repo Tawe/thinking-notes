@@ -1,4 +1,4 @@
- Thinking Notes
+## Thinking Notes
  
 A lightweight, ongoing record of decisions, reflections, and technical growth.  
 Each entry takes 5–10 minutes and captures small moments of learning or leadership.
